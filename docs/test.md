@@ -89,6 +89,5 @@
 
 ### Помилка видалення даних User'а через неправильно вказаний ID
 
-![img_12.png](img_12.png)
 ![Unsuccessful Delete 2](https://github.com/user-attachments/assets/89602ebf-908d-47fe-8112-20fd2a3445e7)
 
