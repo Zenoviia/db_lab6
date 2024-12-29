@@ -22,17 +22,21 @@
 
 ### Зчитування даних усіх User'ів
 
-![img_5.png](img_5.png)
+![Successful Read for all users 1](https://github.com/user-attachments/assets/5d96233a-d020-4b5f-8f56-eff4d2f66758)
 
-![img_6.png](img_6.png)
+
+![Successful Read for all users 2](https://github.com/user-attachments/assets/454d0e4e-b686-482e-9be8-252d7d5d0d34)
+
 
 ### Коректне зчитування даних одного User'а
 
-![img_7.png](img_7.png)
+![Successful Read for one user](https://github.com/user-attachments/assets/b0316c75-91de-453d-8755-d2b060ad35e8)
+
 
 ### Зчитування даних одного User'а з неіснуючим ID
 
-![img_8.png](img_8.png)
+![Unsuccessful Read for one user](https://github.com/user-attachments/assets/7cd287ed-b0ae-454a-91f5-b859245e52b4)
+
 
 ---
 
@@ -40,19 +44,24 @@
 
 ### До оновлення даних User'а
 
-![img_13.png](img_13.png)
+![Before Update](https://github.com/user-attachments/assets/d81354f3-6585-490f-b019-de2030a5a107)
+
 
 ### Коректне оновлення даних User'а
 
-![img_15.png](img_15.png)
+![Successful Update](https://github.com/user-attachments/assets/c2826469-034c-40a1-9223-cc8ea1e0b042)
+
+
 
 ### Після оновлення даних User'а
 
-![img_14.png](img_14.png)
+![After Update](https://github.com/user-attachments/assets/12b64391-16e0-4fee-a361-a128d32bc5e0)
+
 
 ### Помилка оновлення даних User'а, через вказаний ID в тілі запиту (request body)
 
-![img_9.png](img_9.png)
+![Unsuccessful Update](https://github.com/user-attachments/assets/649ab817-a7f4-4763-b38c-a50d5bdf7317)
+
 
 ---
 
@@ -60,20 +69,26 @@
 
 ### До видалення
 
-![img_16.png](img_16.png)
+![Before Delete](https://github.com/user-attachments/assets/54d0afcb-ad3c-4c49-8ec6-deee93e33a41)
+
 
 ### Коректне видалення даних User'а
 
-![img_17.png](img_17.png)
+![Successful Delete](https://github.com/user-attachments/assets/5b84e68f-8093-4e1f-b35a-dbc8a3b497e1)
+
 
 ### Після видалення
 
-![img_18.png](img_18.png)
+![After Delete](https://github.com/user-attachments/assets/3a52f2af-627f-4610-b763-71df4c3a8295)
+
 
 ### Помилка видалення даних User'а через відсутність вказаного ID
 
-![img_11.png](img_11.png)
+![Unsuccessful Delete 1](https://github.com/user-attachments/assets/c6568289-b139-40c8-9eae-b3e7066b5e36)
+
 
 ### Помилка видалення даних User'а через неправильно вказаний ID
 
 ![img_12.png](img_12.png)
+![Unsuccessful Delete 2](https://github.com/user-attachments/assets/89602ebf-908d-47fe-8112-20fd2a3445e7)
+
