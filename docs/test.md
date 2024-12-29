@@ -8,11 +8,13 @@
 
 ### Коректне додавання User'а
 
-![Successful Create](img.png)
+![Successful Create](https://github.com/user-attachments/assets/1e9b7d6b-40a1-4c5c-bfc2-5ff8e4001553)
+
 
 ### Додавання вже існуючого User'а
 
-![img_1.png](img_1.png)
+![Unsuccessful Create](https://github.com/user-attachments/assets/420de5ed-0d43-4ed7-8bf6-4ef58aa40eaf)
+
 
 ---
 
